@@ -1,0 +1,1 @@
+# inheritance-after-class
